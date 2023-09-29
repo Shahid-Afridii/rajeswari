@@ -1,0 +1,5 @@
+@media only screen and (max-width: 767px) {
+   .imageWidth{
+    width: 80% !important;
+   }
+  }
